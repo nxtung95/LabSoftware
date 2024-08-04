@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: com.mow.frame.ProsasingFront
+
+Name: com.jacob
+Permissions: all-permissions
+Specification-Title: JACOB : Java COM Bridge
+Implementation-Title: JACOB : Java COM Bridge Java libraries
+Implementation-Version: 1.18-M2 build 02 on 27-May-2014 23:49:48
+Trusted-Library: true
+Application-Name: Java-Windows Bridge
+Specification-Vendor: http://jacob-project.sourceforge.net
+Codebase: *
+
+Name: com/toedter/calendar/JCalendar.class
+Java-Bean: True
+
+Name: com/toedter/components/JSpinField.class
+Java-Bean: True
+
+Name: com/toedter/calendar/JYearChooser.class
+Java-Bean: True
+
+Name: common
+Implementation-Vendor: Oracle
+Implementation-Title: MySQL Connector/J
+Specification-Title: JDBC
+Implementation-Version: 5.1.18
+Implementation-Vendor-Id: com.mysql
+Specification-Version: 4.0
+Specification-Vendor: Sun Microsystems Inc.
+
+Name: com/toedter/components/JLocaleChooser.class
+Java-Bean: True
+
+Name: com/toedter/calendar/JMonthChooser.class
+Java-Bean: True
+
+Name: com/toedter/calendar/JDateChooser.class
+Java-Bean: True
+
+Name: com/toedter/calendar/JDayChooser.class
+Java-Bean: True
+
+Name: org/apache/xmlbeans/
+Implementation-Vendor: Apache Software Foundation
+Implementation-Title: org.apache.xmlbeans
+Implementation-URL: http://xmlbeans.apache.org/
+Implementation-Version: 2.6.0-r1364789
+Comment: Apache XmlBeans version 2.6.0-r1364789
+

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DMITLabSoftwareRun">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DMITLabSoftwareRun.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
